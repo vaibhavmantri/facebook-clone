@@ -6,29 +6,29 @@ function StoryReel() {
   return (
     <div className = 'storyreel'>
       <Story
-        image="https://www.udiscovermusic.com/wp-content/uploads/2017/11/Eminem-Kamikaze-Press-Shot-CREDIT-Craig-McDean-web-optimised-1000.jpg"
-        profileSrc="https://www.udiscovermusic.com/wp-content/uploads/2017/11/Eminem-Kamikaze-Press-Shot-CREDIT-Craig-McDean-web-optimised-1000.jpg"
-        title="Eminen"
+        image="https://mildaintrainings.com/wp-content/uploads/2017/11/react-logo.png"
+        profileSrc="https://mildaintrainings.com/wp-content/uploads/2017/11/react-logo.png"
+        title="React JS"
       />
       <Story
-        image="https://media4.s-nbcnews.com/i/newscms/2020_45/1628744/justin-bieber-kb-main-201102_9079c80772a4636dd5ca5bf62afb153d.jpg"
-        profileSrc="https://media4.s-nbcnews.com/i/newscms/2020_45/1628744/justin-bieber-kb-main-201102_9079c80772a4636dd5ca5bf62afb153d.jpg"
-        title="Justin Bieber"
+        image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"
+        profileSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"
+        title="Javascript"
       />
       <Story
-        image="https://www.udiscovermusic.com/wp-content/uploads/2017/11/Eminem-Kamikaze-Press-Shot-CREDIT-Craig-McDean-web-optimised-1000.jpg"
-        profileSrc="https://www.udiscovermusic.com/wp-content/uploads/2017/11/Eminem-Kamikaze-Press-Shot-CREDIT-Craig-McDean-web-optimised-1000.jpg"
-        title="Eminen"
+        image="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png"
+        profileSrc="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png"
+        title="HTML 5"
       />
       <Story
-        image="https://media4.s-nbcnews.com/i/newscms/2020_45/1628744/justin-bieber-kb-main-201102_9079c80772a4636dd5ca5bf62afb153d.jpg"
-        profileSrc="https://media4.s-nbcnews.com/i/newscms/2020_45/1628744/justin-bieber-kb-main-201102_9079c80772a4636dd5ca5bf62afb153d.jpg"
-        title="Justin Bieber"
+        image="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png"
+        profileSrc="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png"
+        title="CSS 3"
       />
       <Story
-        image="https://www.udiscovermusic.com/wp-content/uploads/2017/11/Eminem-Kamikaze-Press-Shot-CREDIT-Craig-McDean-web-optimised-1000.jpg"
-        profileSrc="https://www.udiscovermusic.com/wp-content/uploads/2017/11/Eminem-Kamikaze-Press-Shot-CREDIT-Craig-McDean-web-optimised-1000.jpg"
-        title="Eminen"
+        image="https://img.icons8.com/color/452/firebase.png"
+        profileSrc="https://img.icons8.com/color/452/firebase.png"
+        title="Firebase"
       />
       
     </div>
